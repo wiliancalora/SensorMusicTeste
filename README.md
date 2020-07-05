@@ -1,4 +1,4 @@
-# <h1>SensorMusicTeste</h1>
+# <h1>SensorMusic</h1>
 
 #Projeto consiste no desenvolvimento de uma aplicação backend que tem por objetivo disponibilizar musicas para o usuario de acordo com a temperatura da cidade natal, aplicando-se algumas regras.
 
