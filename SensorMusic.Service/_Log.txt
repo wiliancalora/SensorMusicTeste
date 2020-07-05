@@ -1,0 +1,49 @@
+Information: 0 - Now listening on: https://[::]:443
+Information: 0 - Now listening on: http://[::]:80
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: /app
+Information: 0 - Action Autentication :: AuthController -> execute13:36:26
+Information: 0 - Action Autentication :: AuthController -> execute13:36:47
+Information: 0 - Action Get :: SpotifyController -> execute13:37:23 token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiIxIiwiSG9tZXRvd24iOiJDcmF2aW5ob3MiLCJJZFVzZXIiOiIxIiwibmJmIjoxNTkzOTU2MTg5LCJleHAiOjE1OTQwNDI1ODksImlhdCI6MTU5Mzk1NjE4OX0.5P9eIWiawbPxoHTLszkuTlbtXXyr39fsRshTWkefnKo
+Information: 0 - Action Post :: UserController -> execute13:38:03
+Information: 0 - Action Autentication :: AuthController -> execute13:38:46
+Information: 0 - Action Autentication :: AuthController -> execute13:38:53
+Information: 0 - Action Autentication :: AuthController -> execute13:38:58
+Information: 0 - Action Autentication :: AuthController -> execute13:39:26
+Information: 0 - Action Get :: SpotifyController -> execute13:40:30 token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiIxIiwiSG9tZXRvd24iOiJDcmF2aW5ob3MiLCJJZFVzZXIiOiIxIiwibmJmIjoxNTkzOTU2MzY2LCJleHAiOjE1OTQwNDI3NjYsImlhdCI6MTU5Mzk1NjM2Nn0.uu-zBri9HX5IJ8A-OgJpiysAAf9MT1_J5VZOGzf-MJY
+Information: 0 - Action Post :: UserController -> execute13:41:57
+Information: 0 - Action Autentication :: AuthController -> execute13:42:12
+Information: 0 - Action Post :: UserController -> execute13:42:30
+Information: 0 - Now listening on: https://[::]:443
+Information: 0 - Now listening on: http://[::]:80
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: /app
+Information: 0 - Action Autentication :: AuthController -> execute13:43:53
+Information: 0 - Action Autentication :: AuthController -> execute13:44:04
+Information: 0 - Action Get :: SpotifyController -> execute13:44:29 token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiIxIiwiSG9tZXRvd24iOiJDcmF2aW5ob3MiLCJJZFVzZXIiOiIxIiwibmJmIjoxNTkzOTU2NjQ0LCJleHAiOjE1OTQwNDMwNDQsImlhdCI6MTU5Mzk1NjY0NH0.FrgGe36rdgSGFfOMteeidgzLxGctJiUrANZ-slGdztY
+Information: 0 - Action Get :: SpotifyController -> execute13:45:25 token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiIxIiwiSG9tZXRvd24iOiJDcmF2aW5ob3MiLCJJZFVzZXIiOiIxIiwibmJmIjoxNTkzOTU2NjQ0LCJleHAiOjE1OTQwNDMwNDQsImlhdCI6MTU5Mzk1NjY0NH0.FrgGe36rdgSGFfOMteeidgzLxGctJiUrANZ-slGdztY
+Information: 0 - Action Post :: UserController -> execute13:46:43
+Information: 0 - Action Autentication :: AuthController -> execute13:46:53
+Information: 0 - Action Get :: SpotifyController -> execute13:47:11 token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiIxIiwiSG9tZXRvd24iOiJDcmF2aW5ob3MiLCJJZFVzZXIiOiIxIiwibmJmIjoxNTkzOTU2ODEzLCJleHAiOjE1OTQwNDMyMTMsImlhdCI6MTU5Mzk1NjgxM30.ZKvegWbWCSgSMa4bzKO8HX4IDCmNobFoK26V2jF9UtY
+Information: 0 - Action Get :: SpotifyController -> execute13:47:58 token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiIxIiwiSG9tZXRvd24iOiJDcmF2aW5ob3MiLCJJZFVzZXIiOiIxIiwibmJmIjoxNTkzOTU2ODEzLCJleHAiOjE1OTQwNDMyMTMsImlhdCI6MTU5Mzk1NjgxM30.ZKvegWbWCSgSMa4bzKO8HX4IDCmNobFoK26V2jF9UtY
+Information: 0 - Now listening on: https://[::]:443
+Information: 0 - Now listening on: http://[::]:80
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: /app
+Information: 0 - Action Post :: UserController -> execute13:49:43
+Information: 0 - Action Autentication :: AuthController -> execute13:50:08
+Error: 1 - An unhandled exception has occurred while executing the request.
+Information: 0 - Action Autentication :: AuthController -> execute13:50:23
+Error: 1 - An unhandled exception has occurred while executing the request.
+Information: 0 - Action Autentication :: AuthController -> execute13:52:29
+Error: 1 - An unhandled exception has occurred while executing the request.
+Information: 0 - Action Autentication :: AuthController -> execute13:52:49
+Error: 1 - An unhandled exception has occurred while executing the request.
+Information: 0 - Action Autentication :: AuthController -> execute13:53:29
+Information: 0 - Action Get :: SpotifyController -> execute13:56:01 token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiIyMSIsIkhvbWV0b3duIjoiZ3JhbWFkbyIsIklkVXNlciI6IjIxIiwibmJmIjoxNTkzOTU3MzM0LCJleHAiOjE1OTQwNDM3MzMsImlhdCI6MTU5Mzk1NzMzNH0.Ameb4QV-BVVSTO0xTkUWDOfC4ZpZ0OzqSoem2T5cXGw
+Information: 0 - Action Post :: UserPasswordRecoveryController -> execute13:58:10
+Information: 0 - Action Autentication :: AuthController -> execute13:58:46
+Information: 0 - Action Autentication :: AuthController -> execute13:58:59

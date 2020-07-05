@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Presensation", "0 - Presensation", "{2470AB02-D11F-4949-893F-0147E3A0C63B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Services", "1 - Services", "{C91346D9-2B13-4630-8B56-3B2234E94225}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Application", "2 - Application", "{B4D186A9-A565-43C5-84BA-EDDE68F6A383}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Domain", "3 - Domain", "{6BFC5431-3B6D-4C4D-94FA-DFC708597251}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Infra", "4 - Infra", "{29FB5D97-5DF8-4FAC-8808-703BE5AB86D7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SensorMusic.Application", "SensorMusic.Application\SensorMusic.Application.csproj", "{3885E95F-E308-48AA-BB36-ABEF9D4DDEB3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SensorMusic.Domain", "SensorMusic.Domain\SensorMusic.Domain.csproj", "{B0446536-3380-495C-937B-77868CB16C87}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SensorMusic.Infra.Data", "SensorMusic.Infra.Data\SensorMusic.Infra.Data.csproj", "{26C8DAAE-D9E9-4013-9D91-268688CB488A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SensorMusic.Services", "SensorMusic.Service\SensorMusic.Services.csproj", "{E5AE7F3E-C8C8-4FB5-9C0A-1FAF51B53B5D}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{816D495D-5479-4E26-81B7-B5BC3061ED13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3885E95F-E308-48AA-BB36-ABEF9D4DDEB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3885E95F-E308-48AA-BB36-ABEF9D4DDEB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3885E95F-E308-48AA-BB36-ABEF9D4DDEB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3885E95F-E308-48AA-BB36-ABEF9D4DDEB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0446536-3380-495C-937B-77868CB16C87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0446536-3380-495C-937B-77868CB16C87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0446536-3380-495C-937B-77868CB16C87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0446536-3380-495C-937B-77868CB16C87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26C8DAAE-D9E9-4013-9D91-268688CB488A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26C8DAAE-D9E9-4013-9D91-268688CB488A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26C8DAAE-D9E9-4013-9D91-268688CB488A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26C8DAAE-D9E9-4013-9D91-268688CB488A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5AE7F3E-C8C8-4FB5-9C0A-1FAF51B53B5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5AE7F3E-C8C8-4FB5-9C0A-1FAF51B53B5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5AE7F3E-C8C8-4FB5-9C0A-1FAF51B53B5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5AE7F3E-C8C8-4FB5-9C0A-1FAF51B53B5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{816D495D-5479-4E26-81B7-B5BC3061ED13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{816D495D-5479-4E26-81B7-B5BC3061ED13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{816D495D-5479-4E26-81B7-B5BC3061ED13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{816D495D-5479-4E26-81B7-B5BC3061ED13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3885E95F-E308-48AA-BB36-ABEF9D4DDEB3} = {B4D186A9-A565-43C5-84BA-EDDE68F6A383}
+		{B0446536-3380-495C-937B-77868CB16C87} = {6BFC5431-3B6D-4C4D-94FA-DFC708597251}
+		{26C8DAAE-D9E9-4013-9D91-268688CB488A} = {29FB5D97-5DF8-4FAC-8808-703BE5AB86D7}
+		{E5AE7F3E-C8C8-4FB5-9C0A-1FAF51B53B5D} = {C91346D9-2B13-4630-8B56-3B2234E94225}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33A19A23-7529-437B-9D02-C494A2B4F286}
+	EndGlobalSection
+EndGlobal
