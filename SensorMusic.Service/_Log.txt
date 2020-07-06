@@ -47,3 +47,15 @@ Information: 0 - Action Get :: SpotifyController -> execute13:56:01 token:eyJhbG
 Information: 0 - Action Post :: UserPasswordRecoveryController -> execute13:58:10
 Information: 0 - Action Autentication :: AuthController -> execute13:58:46
 Information: 0 - Action Autentication :: AuthController -> execute13:58:59
+Information: 0 - Now listening on: https://[::]:443
+Information: 0 - Now listening on: http://[::]:80
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: /app
+Information: 0 - Now listening on: https://[::]:443
+Information: 0 - Now listening on: http://[::]:80
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: /app
+Information: 0 - Action Autentication :: AuthController -> execute00:30:33
+Information: 0 - Action Autentication :: AuthController -> execute00:30:40
